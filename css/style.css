@@ -1,4 +1,10 @@
 /* Здесь будут все стили проекта */
 header {
     background-color: orchid;
+    padding-top: 1%;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
 }
